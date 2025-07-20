@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fateh\\source\\repos\\taskcrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|c:\\users\\fateh\\source\\repos\\taskcrud\\taskcrud\\services\\implements\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|solutionrelative:taskcrud\\services\\implements\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|c:\\users\\fateh\\source\\repos\\taskcrud\\taskcrud\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|solutionrelative:taskcrud\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|c:\\users\\fateh\\source\\repos\\taskcrud\\taskcrud\\services\\abstracts\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|solutionrelative:taskcrud\\services\\abstracts\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|c:\\users\\fateh\\source\\repos\\taskcrud\\taskcrud\\validators\\categories\\categoriesupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|solutionrelative:taskcrud\\validators\\categories\\categoriesupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|c:\\users\\fateh\\source\\repos\\taskcrud\\taskcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|solutionrelative:taskcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|c:\\users\\fateh\\source\\repos\\taskcrud\\taskcrud\\dtos\\categories\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|solutionrelative:taskcrud\\dtos\\categories\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|c:\\users\\fateh\\source\\repos\\taskcrud\\taskcrud\\profiles\\categoryprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|solutionrelative:taskcrud\\profiles\\categoryprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|c:\\users\\fateh\\source\\repos\\taskcrud\\taskcrud\\dtos\\categories\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|solutionrelative:taskcrud\\dtos\\categories\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|c:\\users\\fateh\\source\\repos\\taskcrud\\taskcrud\\dtos\\categories\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79831FA-3552-4583-B18C-6E257DC379B7}|taskcrud\\taskcrud.csproj|solutionrelative:taskcrud\\dtos\\categories\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:618693198:0:{13143d73-808b-4a2f-bebb-ccbe9c93fe37}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Validators\\Categories\\CategoriesUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "taskcrud\\Validators\\Categories\\CategoriesUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Validators\\Categories\\CategoriesUpdateDtoValidator.cs",
+              "RelativeToolTip": "taskcrud\\Validators\\Categories\\CategoriesUpdateDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:56:15.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Program.cs",
+              "RelativeDocumentMoniker": "taskcrud\\Program.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Program.cs",
+              "RelativeToolTip": "taskcrud\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:55:36.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\DTOs\\Categories\\CategoryUpdateDto.cs",
+              "RelativeDocumentMoniker": "taskcrud\\DTOs\\Categories\\CategoryUpdateDto.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\DTOs\\Categories\\CategoryUpdateDto.cs",
+              "RelativeToolTip": "taskcrud\\DTOs\\Categories\\CategoryUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:54:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "taskcrud\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "taskcrud\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:40:26.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Services\\Abstracts\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "taskcrud\\Services\\Abstracts\\ICategoryServices.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Services\\Abstracts\\ICategoryServices.cs",
+              "RelativeToolTip": "taskcrud\\Services\\Abstracts\\ICategoryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:31:21.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Services\\Implements\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "taskcrud\\Services\\Implements\\CategoryServices.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Services\\Implements\\CategoryServices.cs",
+              "RelativeToolTip": "taskcrud\\Services\\Implements\\CategoryServices.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:31:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Profiles\\CategoryProfiles.cs",
+              "RelativeDocumentMoniker": "taskcrud\\Profiles\\CategoryProfiles.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\Profiles\\CategoryProfiles.cs",
+              "RelativeToolTip": "taskcrud\\Profiles\\CategoryProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:44:29.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "taskcrud\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "RelativeToolTip": "taskcrud\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:33:37.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\DTOs\\Categories\\CategoryGetDto.cs",
+              "RelativeDocumentMoniker": "taskcrud\\DTOs\\Categories\\CategoryGetDto.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\taskcrud\\taskcrud\\DTOs\\Categories\\CategoryGetDto.cs",
+              "RelativeToolTip": "taskcrud\\DTOs\\Categories\\CategoryGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:33:39.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
